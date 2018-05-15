@@ -33,5 +33,11 @@
         "duration" : 300,
         "tabReloadIntervalSeconds": 60
       }
+      ,
+      {
+        "url" : "https://prometheus.boss-prd.dwpcloud.uk/alerts",
+        "duration" : 300,
+        "tabReloadIntervalSeconds": 60
+      }
           ]
   }

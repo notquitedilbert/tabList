@@ -1,0 +1,37 @@
+{
+    "settingsReloadIntervalMinutes": 60,
+    "fullscreen": false,
+    "autoStart": true,
+    "websites" : [
+      {
+        "url" : "https://nagiosprod.itsbeta.net/nagiosxi/dashboards/dashboard.php?id=lL92QD",
+        "duration" : 300,
+        "tabReloadIntervalSeconds": 60
+      },
+      {
+        "url" : "https://nagiosprod.itsbeta.net/nagiosxi/dashboards/dashboard.php?id=5qCr0j",
+        "duration" : 300,
+        "tabReloadIntervalSeconds": 60
+      },
+      {
+        "url" : "https://nagiosprod.itsbeta.net/nagiosxi/dashboards/dashboard.php?id=B0UcKf",
+        "duration" : 300,
+        "tabReloadIntervalSeconds": 60
+      },
+      {
+        "url" : "https://nagiosprod.itsbeta.net/nagiosxi/dashboards/dashboard.php?id=mVhqfo",
+        "duration" : 300,
+        "tabReloadIntervalSeconds": 60
+      },
+      {
+        "url" : "https://nagiosprod.itsbeta.net/nagiosxi/dashboards/dashboard.php?id=jfkipblb",
+        "duration" : 300,
+        "tabReloadIntervalSeconds": 60
+      },
+      {
+        "url" : "https://grafana.boss-prd.dwpcloud.uk/",
+        "duration" : 300,
+        "tabReloadIntervalSeconds": 60
+      }
+          ]
+  }

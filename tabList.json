@@ -1,5 +1,5 @@
 {
-    "settingsReloadIntervalMinutes": 60,
+    "settingsReloadIntervalMinutes": 1,
     "fullscreen": false,
     "autoStart": true,
     "websites" : [

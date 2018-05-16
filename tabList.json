@@ -32,12 +32,13 @@
         "url" : "https://grafana.boss-prd.dwpcloud.uk/d/lX2aHUMmz/aws-overview?orgId=1",
         "duration" : 300,
         "tabReloadIntervalSeconds": 60
-      }
-      ,
+      },
       {
-        "url" : "https://prometheus.boss-prd.dwpcloud.uk/alerts",
+        "url" : "https://prometheus.boss-prd.dwpcloud.uk/targets",
         "duration" : 300,
         "tabReloadIntervalSeconds": 60
       }
           ]
   }
+
+

@@ -29,7 +29,7 @@
         "tabReloadIntervalSeconds": 60
       },
       {
-        "url" : "https://grafana.boss-prd.dwpcloud.uk/d/lX2aHUMmz/aws-overview?orgId=1",
+        "url" : "https://grafana.boss-prd.dwpcloud.uk/d/main-dash/aws-overview?orgId=1",
         "duration" : 300,
         "tabReloadIntervalSeconds": 60
       },

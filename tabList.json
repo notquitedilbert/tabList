@@ -42,6 +42,11 @@
         "url" : "https://prometheus.boss-prd.dwpcloud.uk/alerts",
         "duration" : 300,
         "tabReloadIntervalSeconds": 60
+      },
+      {
+        "url" : "https://nagiosprod.itsbeta.net/nagiosxi/dashboards/dashboard.php?id=jcPpNc0q",
+        "duration" : 300,
+        "tabReloadIntervalSeconds": 60
       }
           ]
   }

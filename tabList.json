@@ -47,7 +47,13 @@
         "url" : "https://nagiosprod.itsbeta.net/nagiosxi/dashboards/dashboard.php?id=jcPpNc0q",
         "duration" : 300,
         "tabReloadIntervalSeconds": 60
+      },
+      {
+        "url" : "https://grafana.boss-prd.dwpcloud.uk/d/uS5XyJtmz/tpt-production?orgId=1&from=1534994977096&to=1535016577096&theme=light",
+        "duration" : 300,
+        "tabReloadIntervalSeconds": 60
       }
+        
           ]
   }
 

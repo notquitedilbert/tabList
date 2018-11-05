@@ -25,7 +25,8 @@
         "tabReloadIntervalSeconds": 60
       },
       {
-        "url" : "https://grafana.boss-prd.dwpcloud.uk/d/uS5XyJtmz/tpt-production?orgId=1&theme=light",
+          
+        "url" : "https://grafana.boss-prd.dwpcloud.uk/d/2VJ9Spaiz/tpt-prod?orgId=1",
         "duration" : 300,
         "tabReloadIntervalSeconds": 60
       }
